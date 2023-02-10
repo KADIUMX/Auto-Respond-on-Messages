@@ -3,12 +3,12 @@
 
 
 # What Does it do
-# • Responds to specific Discord Messages that triggers the bot (token)
+• Responds to specific Discord Messages that triggers the bot (token)
 
 # What Are the Requirements
-# • Python 3.11.2
-# • pip installed requests
-# • pip installed time
+• Python 3.11.2
+• pip installed requests
+• pip installed time
 
 # Is it safe
-# • Yes it is, its open source
+• Yes it is, its open source
